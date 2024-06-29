@@ -1,0 +1,13 @@
+{
+    "name": "dog zoning out",
+    "symbol": "ZAZA",
+    "supply": 1000000000000000,
+    "decimals": 6,
+    "description": "too much zaza...",
+    "extensions": {
+        "website": "https://zaza/.com",
+        "twitter": "https://twitter.com/zaza",
+        "telegram": "https://t.me/zaza"
+    },
+    "image": "https://cf-ipfs.com/ipfs/QmePWHpeLUQ5YmcFrgPNX4G6T7L958WuxbuB5ezazHQnVs",
+}
